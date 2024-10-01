@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a600ff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Selamın+Aleyküm+Hayırlı+Cumalar+." alt="JetSkiciler" />
 
-[![Discord Profilim](https://lanyard.cnrad.dev/api/:698251373225181354)](https://discord.com/users/:698251373225181354)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/698251373225181354)](https://discord.com/users/698251373225181354)
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
