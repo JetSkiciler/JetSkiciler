@@ -11,7 +11,3 @@
    <img src="https://github-readme-stats.vercel.app/api?username=JetSkiciler&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=Darkdaysdev&theme=radical" />
 </p>
-
-<div align=center>
-  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
-</div>
