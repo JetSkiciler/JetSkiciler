@@ -13,7 +13,7 @@
 class JetSkiciler {
   constructor() {
     this.name = "Esat";
-    this.age = 21;
+    this.age = 23;
     this.discord = "cecu47";
     this.discordId = "213724914090377216";
     this.interests = ["Node.js", "Discord Bots"];
